@@ -1,0 +1,2 @@
+# bigword
+a study 
